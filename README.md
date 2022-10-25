@@ -1,6 +1,6 @@
 helloci
 =======
-111
+
 Test projects for Git training
 
 Build
